@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## NOTA
 Depois de clonar, dar npm install
+
 ng serve --port 8080 
 
 ## Development server
